@@ -1,7 +1,6 @@
 [
 {
-    "domain": ".roblowwx.con
-  ",
+    "domain": ".robl0x.con",
     "expirationDate": 1741264195.931247,
     "hostOnly": false,
     "httpOnly": false,
@@ -15,7 +14,7 @@
     "id": 1
 },
 {
-    "domain": ".roblowx.com",
+    "domain": ".robl0x.con",
     "expirationDate": 1741264195.930808,
     "hostOnly": false,
     "httpOnly": false,
@@ -29,7 +28,7 @@
     "id": 2
 },
 {
-    "domain": ".roblowx.com",
+    "domain": ".robl0x.con",
     "expirationDate": 1714480183,
     "hostOnly": false,
     "httpOnly": false,
@@ -43,7 +42,7 @@
     "id": 3
 },
 {
-    "domain": "www.roblowx.com",
+    "domain": "www.robl0x.con",
     "hostOnly": true,
     "httpOnly": false,
     "name": "PHPSESSID",
@@ -56,7 +55,7 @@
     "id": 4
 },
 {
-    "domain": "www.roblowx.com",
+    "domain": "www.robl0x.con",
     "expirationDate": 1722256185,
     "hostOnly": true,
     "httpOnly": false,
